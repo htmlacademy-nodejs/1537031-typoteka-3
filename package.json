@@ -20,6 +20,7 @@
   "homepage": "https://github.com/Ann-Mir/1537031-typoteka-3#readme",
   "devDependencies": {
     "eslint": "7.31.0",
-    "eslint-config-htmlacademy": "0.6.0"
+    "eslint-config-htmlacademy": "0.6.0",
+    "moment": "2.29.1"
   }
 }
